@@ -8,8 +8,8 @@ miner_id = 0
 
 class Miner:
     miner_id = 0
-    user_url = "http://139.224.210.21:28089"
-    bill_url = "http://139.224.210.21:28090"
+    user_url = "http://usersys.ap-northeast-1.elasticbeanstalk.com:8080"
+    bill_url = "http://billsys.ap-northeast-1.elasticbeanstalk.com:8080"
     config_path = "config.json"
 
     def login(self):
