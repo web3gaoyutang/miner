@@ -1,0 +1,9 @@
+{
+    "xxl_admin_baseurl": "http://jobsys.ap-northeast-1.elasticbeanstalk.com:8080/xxl-job-admin/api/",
+    "executor_app_name": "xxl-job-executor-sample",
+    "executor_host": "116.196.86.238",
+    "executor_server_host": "0.0.0.0",
+    "access_token": "default_token",
+    "executor_port": 7010,
+    "miner_id": 28
+}
